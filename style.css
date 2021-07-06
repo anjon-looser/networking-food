@@ -2,3 +2,74 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 20px;
 }
+h1{
+    font-size: 40px;
+    word-spacing: normal;
+    line-height: 10px;
+    padding-left: 20px;
+}
+p{
+    padding-left:20px ;
+}
+section{
+    display: flex;
+}
+.color-orange{
+    color: orange;
+}
+.link-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 123, 0),tomato);
+    font-weight: 400; 
+    border-radius: 20px;
+    padding: 10px 30px;
+    color: white;
+    line-height: 80px;
+    
+  }
+  .link-button1
+{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 123, 0),tomato);
+    font-weight: 400; 
+    border-radius: 20px;
+    padding: 10px 30px;
+    color: white;
+    line-height: 120px;
+    margin-left: 70px;
+    
+  }
+  .half-width{
+
+    width: 80%;
+    padding-left: 30px;
+  }
+  .half-width img{
+
+    max-width: 90%;
+    max-height: 80%;
+    padding-right: 100px;
+    padding-top: 60px;
+    padding-bottom: 70px;
+ }
+  
+  
+    .top-banner{
+        background-image: url(images/shapes/7.png);
+        background-repeat: no-repeat;
+    }
+    .right-header
+    {   text-align: left;
+        padding-top: 50px;
+        margin-left: 60px;
+        color: grey;
+        font-size:30px;
+    }
+  .line-space
+  {
+      padding-right: 200px;
+      margin-left: 60px;
+      font-size: small;
+
+  }
