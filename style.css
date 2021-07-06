@@ -73,3 +73,52 @@ section{
       font-size: small;
 
   }
+.Title-Recipe
+{
+    text-align: center;
+    color: grey;
+}
+.My-Recipe
+{
+    font-size: small;
+    padding-right: 150px;
+    margin-left: 150px;
+}
+.flex-container {
+    display: flex;
+    height: 200px;
+    align-items: center;
+    flex-direction: row;
+  }
+.half-width1 img
+{
+    width: 80%;
+    height: 60%;
+    padding-right: 80px;
+    padding-top: 430px;
+    padding-bottom: 0px;
+    
+}
+.Menu-Title
+{
+    font-size: small;
+    padding-right: 10px;
+}
+.Menu-Bar
+{
+    padding-left: 10px;
+}
+.food-network
+{
+    text-align: center;
+    padding-top: 450px;
+    line-height: 70px;
+        
+    
+}
+.footer-color
+{
+    text-align: center;
+    
+}
+
